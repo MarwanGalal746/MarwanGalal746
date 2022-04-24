@@ -2,7 +2,7 @@
   <br>
   <h1>👋 Hi, I’m @MarwanGalal746</h1>
 </div> 
-I am Marwan from Egypt, I am a Golang developer at [Egirna Technologies](https://github.com/egirna). Contributing what I learn is my passion.
+I am Marwan from Egypt, I am a Golang developer at [Egirna](https://github.com/egirna). Contributing what I learn is my passion.
 
 
 - :dart: I’m interested in Software Engineering
