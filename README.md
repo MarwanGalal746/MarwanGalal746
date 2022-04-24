@@ -11,8 +11,8 @@ I am Marwan from Egypt, I am a Golang developer at [Egirna Technologies](https:/
 - 💻 Linux is my main operating system.
 
 
-- 📫 How to reach me: 
-[Email](marawangalal84@gmail.com), [LinkedIn](https://www.linkedin.com/in/marwan-galal-mohamed/)
+- 📫 How to reach me:
+[LinkedIn](https://www.linkedin.com/in/marwan-galal-mohamed/), marawangalal84@gmail.com
 
 Don't hesitate to contact me at any time.
 
