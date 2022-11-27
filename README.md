@@ -3,20 +3,14 @@
   <h1>👋 Hi, I’m @MarwanGalal746</h1>
 </div> 
 
-I am Marwan from Egypt, I am a former Software Engineer at [Glasswall Solutions](https://www.glasswall.com/) and [Egirna Technologies](https://www.egirna.com/).
+I am Marwan from Egypt, I am a Software Engineer at [Vodafone](https://www.vodafone.com/) and former Software Engineer at [Egirna Technologies](https://www.egirna.com/) and [Glasswall](https://www.glasswall.com/).
 
 
-- :dart: I’m interested in Software Engineering
-- :bulb: I use [Golang](https://go.dev/) in backend development.
-- 💻 Linux is my main operating system.
+- :dart: I’m interested in Software Engineering.
+- :bulb: I use [Golang](https://go.dev/) and [Java](https://www.java.com/) in backend development.
 
 
 - 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/marwan-galal-mohamed/), marawangalal84@gmail.com
 
 Don't hesitate to contact me at any time.
-
-<!---
-MarwanGalal746/MarwanGalal746 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
